@@ -1,0 +1,23 @@
+{
+  "index": {
+    "SimulationProcessDataManagement": "SimulationProcessDataManagement.sysml",
+    "SPDM_CreateAndRunSimulationExample": "examples/01_CreateAndRunSimulation.sysml",
+    "SPDMExample_HybridAircraftMBDModel": "examples/example_aircraft_model.sysml"
+  },
+  "created": "2025-10-23T05:10:44.965639000Z",
+  "metamodel": "https://www.omg.org/spec/SysML/20250201",
+  "checksum": {
+    "SimulationProcessDataManagement.sysml": {
+      "value": "",
+      "algorithm": "NONE"
+    },
+    "examples/01_CreateAndRunSimulation.sysml": {
+      "value": "",
+      "algorithm": "NONE"
+    },
+    "examples/example_aircraft_model.sysml": {
+      "value": "",
+      "algorithm": "NONE"
+    }
+  }
+}
