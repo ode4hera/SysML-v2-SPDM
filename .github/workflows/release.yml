@@ -80,4 +80,4 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: kpar
-          path: ${PACKAGE_DIR}/output/*.kpar
+          path: ./**/output/*.kpar
