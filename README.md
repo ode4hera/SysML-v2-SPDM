@@ -29,6 +29,8 @@ The library is best viewed and used with [Syside Editor](https://docs.sensmetry.
 
 If you are using the library in your work, please cite:
 
+Ziegler, K. et al., "Connecting Simulation and Data Management Tools Through Open Standards to Support Hybrid Aircraft Design". Eng. Proc. 2026, 133, 40. [10.3390/engproc2026133040](https://doi.org/10.3390/engproc2026133040)
+
 Bussemaker, J.H., Torrigiani, F., & Cabaleiro, C. (2026). HERA Architecture Framework Libraries. ODE4HERA Consortium.
 doi: [10.5281/zenodo.18267042](https://doi.org/10.5281/zenodo.18267042)
 
