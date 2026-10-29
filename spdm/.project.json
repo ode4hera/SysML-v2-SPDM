@@ -1,7 +1,7 @@
 {
   "name": "SPDM",
   "description": "Library for modeling Simulation Process Data Management (SPDM) concepts.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "maintainer": [
     "German Aerospace Center (DLR) <digital.engineering@dlr.de>"
