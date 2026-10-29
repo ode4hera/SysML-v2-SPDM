@@ -15,7 +15,7 @@
   "usage": [
     {
       "resource": "pkg:sysand/ode4hera/requirements-management",
-      "versionConstraint": "^2.0.0"
+      "versionConstraint": "^2.0.2"
     },
     {
       "resource": "pkg:sysand/ode4hera/simulation-and-analysis",
