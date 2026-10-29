@@ -4,6 +4,7 @@
 
 [![Package Checks](https://github.com/ode4hera/SysML-v2-SPDM/workflows/Package%20Checks/badge.svg)](https://github.com/ode4hera/SysML-v2-SPDM/actions/workflows/package_checks.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Sysand](https://img.shields.io/badge/sysand-SPDM-blue)](https://sysand.com/projects/ode4hera/spdm/)
 
 This repository contains a SysML v2 library package to support Simulation Process & Data Management (SPDM) concepts.
 Refer to the package [readme](spdm/README.md) and [examples](spdm/examples/) for more details.
